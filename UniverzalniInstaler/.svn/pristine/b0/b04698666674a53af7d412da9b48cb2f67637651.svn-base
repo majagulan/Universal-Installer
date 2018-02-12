@@ -1,0 +1,127 @@
+file = Fajl
+
+edit = Uredi
+
+language = Jezik
+
+about = O aplikaciji
+
+labelChoose = Dostupni proizvodi...
+
+newProduct = Novi Proizvod
+
+menu.file.newWizard = Novi Wizard
+
+menu.file.newParameter = Novi Parametar
+
+
+upozorenjeNeuspesno = Neuspesno snimanje!
+
+upozorenjeUspesno = Uspesno snimanje!
+
+
+menu.edit.save = Sacuvaj
+
+menu.edit.remove = Ukloni
+
+jtree.workspace = Radni prostor
+
+btnUpdate = Azuriraj
+
+btnRemove = Ukloni
+
+btnSave = Sacuvaj
+
+btnAdd = Dodaj
+
+
+meniSrpski = srpski
+
+meniEngleski = engleski
+
+next = Sledeci
+
+back = Nazad
+
+installandfinish = Instaliraj i zavrsi
+
+
+naslovApp = Univerzalni instaler: Tim 1.4
+
+naslovIzaberiteOpcije = Izaberite jezik:
+
+btnSrpski = Srpski
+
+btnEngleski = Engleski
+
+btnOk = U redu
+
+btnCancel = Odustani
+
+choose = IZBOR
+
+izabraniProizvodJe = Izabrani porizvod je...
+
+izabraniProizvodIma = Izabrani porizvod ima...
+
+labelWarning = Izaberite proizvod...
+
+wizarda = wizarda
+
+upozorenje = UPOZORENJE
+
+titleProduct = Novi proizvod
+
+nameProduct = Ime proizvoda:
+
+loc = Lokacija:
+
+Yes = Da
+
+true = tacno
+
+false = netacno
+
+defaultLabel = Ako ne unesete tip, bice koriscen podrazumevani!
+
+upozorenje1 = Popunite sva obavezna polja!
+
+upozorenje2 = Naziv parametra mora biti jedinstven!
+
+upozorenje3 = Poruka
+
+upozorenje4 = Odaberite proizvod!
+
+titleWizard = Novi vizard
+
+nameWiz = Ime vizarda: 
+
+titleParameter = Novi Parametar
+
+namPar = Ime parametra:
+
+rOnly = Samo \u010Ditanje
+
+visibility = Vidljivost
+
+filling = Obavezno popunjavanje
+
+type = Tip parametra
+
+vrPar = Vrednost parametra
+
+Save = Sa\u010Duvaj
+
+newPar = Novi Parametar
+
+newProd = Novi Proizvod
+
+newWizard = Novi Vizard
+
+Quit = Izlaz
+
+Remove = Ukloni
+
+Update = Izmeni
+
+fileNePostoji = Fajl nije validan
